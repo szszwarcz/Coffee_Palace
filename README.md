@@ -1,0 +1,1 @@
+This is coffee_palace application, this application gathers all information about coffe :)
